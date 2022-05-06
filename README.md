@@ -16,3 +16,5 @@ Es muy importante que leas esto para darte algunas especificaciones del circuito
 •	PIC16F877A  
 
 //Nota: Alimentar el circuito a 5V para no dañar el microcontrolador.
+
+![Blink_bb](https://user-images.githubusercontent.com/105074465/167223685-852bebb3-b2e4-40a1-bdff-ccc1d526e3ad.png)
